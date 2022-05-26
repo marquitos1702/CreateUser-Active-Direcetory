@@ -17,10 +17,10 @@ foreach ($User in $ADUsers) {
     $OU = $User.ou 
     $departmento = $User.department
 
-    # Check to see if the user already exists in AD
+    # Check if a user already exist
     if (Get-ADUser -F { SamAccountName -eq $username }) {
         
-        # If user does exist, give a warning
+        # Warning for a repeat user
         Write-Warning "A user account with username $username already exists in Active Directory."
     }
     else {
