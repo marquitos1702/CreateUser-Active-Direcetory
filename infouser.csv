@@ -1,0 +1,16 @@
+user;nombre;apellido;password;departamento;OU
+Andres;Andres;Proyecto;Windows2019;Oficinas;OU=Empresa,DC=marc,DC=proye
+Antoine;Antoine;Proyecto;Windows2019;Oficinas;OU=Empresa,DC=marc,DC=proye
+Cristina;Cristina;Proyecto;Windows2019;Oficinas;OU=Empresa,DC=marc,DC=proye
+Ester;Ester;Proyecto;Windows2019;Oficinas;OU=Empresa,DC=marc,DC=proye
+Tomas;Tomas;Proyecto;Windows2019;Oficinas;OU=Empresa,DC=marc,DC=proye
+Ximo;Ximo;Proyecto;Windows2019;Oficinas;OU=Empresa,DC=marc,DC=proye
+Juanjo;Juanjo;Proyecto;Windows2019;Fábrica;OU=Empresa,DC=marc,DC=proye
+Lourdes;Lourdes;Proyecto;Windows2019;Fábrica;OU=Empresa,DC=marc,DC=proye
+Natalia;Natalia;Proyecto;Windows2019;Fábrica;OU=Empresa,DC=marc,DC=proye
+Pablo;Pablo;Proyecto;Windows2019;Fábrica;OU=Empresa,DC=marc,DC=proye
+Pablo;Pablo;Proyecto;Windows2019;Fábrica;OU=Empresa,DC=marc,DC=proye
+Paula;Paula;Proyecto;Windows2019;Fábrica;OU=Empresa,DC=marc,DC=proye
+Rosa;Rosa;Proyecto;Windows2019;Fábrica;OU=Empresa,DC=marc,DC=proye
+Jose;Jose;Proyecto;Windows2019;Informáticos;OU=Empresa,DC=marc,DC=proye
+Jose;Jose;Proyecto;Windows2019;Informáticos;OU=Empresa,DC=marc,DC=proye
